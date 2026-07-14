@@ -1,0 +1,16 @@
+marks = 70
+print("Initial Marks:", marks)
+marks += 5
+print("After +=:", marks)
+marks -= 10
+print("After -=:", marks)
+marks *= 15
+print("After *=:", marks)
+marks /= 4
+print("After /=:", marks)
+marks %= 6
+print("After %=:", marks)
+marks //= 8
+print("After //=:", marks)
+marks **= 2
+print("After **=:", marks)
