@@ -1,0 +1,12 @@
+# #print(bool(0))
+# #print(bool(5))
+# print(bool(""))
+# print(bool("Noor"))
+# print(bool("False"))
+# print(bool("0"))
+
+print(bool(-1))
+print(bool(0.0))
+print(bool(0.5))
+print(bool(" "))
+print(bool(None))
