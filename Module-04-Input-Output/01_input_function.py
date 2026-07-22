@@ -1,0 +1,6 @@
+name = (input("Please enter your name:"))
+age = (input("Please enter your age:"))
+favorite_color = (input("Please enter your favorite color:"))
+print("Name:", name)
+print("Age:", age)
+print("Favorite Color:", favorite_color)
