@@ -1,0 +1,13 @@
+name = (input("Please enter your name:"))
+age = int(input("Please enter your age:"))
+city = (input("Please enter your city:"))
+
+print()
+print("=" * 40)
+print("STUDENT INFORMATION". center(40))
+print("=" * 40)
+print(f"Hello {name}!")
+print(f"Age  : {age}")
+print(f"City : {city}")
+print("Welcome to Python Programming!")
+print("=" * 40)
