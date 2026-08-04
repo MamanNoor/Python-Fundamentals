@@ -1,0 +1,40 @@
+# String Operators
+print("=" * 40)
+print("STRING OPERATORS".center(40))
+print("=" * 40)
+# Variables
+first_name = "Maman"
+second_name = "Noor"
+course = "Python"
+star = "*"
+# Display Original Values
+print(f"First Name            : {first_name}")
+print(f"Second Name           : {second_name}")
+print(f"Course                : {course}")
+print(f"Star                  : {star}")
+print()
+print("-" * 40)
+print("Concatenation (+)".center(40))
+print("-" * 40)
+print(f"Concatenation         : {first_name + " " + second_name}")
+print()
+print("-" * 40)
+print("Repetition (*)".center(40))
+print("-" * 40)
+print(f"Course Repetition     : {(course + ' ' )* 3}")
+print(f"Star Repetition       : {star * 20}")
+print()
+print("-" * 40)
+print("Membership (in)".center(40))
+print("-" * 40)
+print(f"'Py' in course        : {'Py' in course}")
+print(f"'Java' in course      : {'Java' in course}")
+print()
+print("-" * 40)
+print("Membership (not in)".center(40))
+print("-" * 40)
+print(f"'Py' not in course    : {"Py" not in course}")
+print(f"'Java' not in course  : {"Java" not in course}")
+print()
+print("String Operators demonstrated successfully!")
+print("=" * 40)
