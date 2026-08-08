@@ -1,7 +1,6 @@
-
 # Variables
 text = "Python"
-first_character = text[0]
+reversed_string = text[::-1]
 # Display Results
 print(f"Text            : {text}")
-print(f"First character : {first_character}")
+print(f"Reversed string : {reversed_string}")
